@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.672656fa.css",
+    "main.js": "/static/js/main.512d7f4b.js",
+    "static/media/Logo.svg": "/static/media/Logo.fe688806d8545e11ebdc92e8c087186d.svg",
+    "static/media/bitcoin.svg": "/static/media/bitcoin.9f07e04634dc694a8314316dc4815001.svg",
+    "static/media/litecoin.svg": "/static/media/litecoin.32a77211c8872ca57e001be5f3e772b0.svg",
+    "static/media/arrow-right.svg": "/static/media/arrow-right.1aeec65a9a53966b17acdbf753386871.svg",
+    "index.html": "/index.html",
+    "static/media/ethereum.svg": "/static/media/ethereum.ea3a75f9df47ffded2b07092d4e5c710.svg",
+    "main.672656fa.css.map": "/static/css/main.672656fa.css.map",
+    "main.512d7f4b.js.map": "/static/js/main.512d7f4b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.672656fa.css",
+    "static/js/main.512d7f4b.js"
+  ]
+}
